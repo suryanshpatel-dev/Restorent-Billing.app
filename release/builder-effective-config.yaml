@@ -1,0 +1,21 @@
+directories:
+  output: release
+  buildResources: build
+appId: com.royalkitchen.billing
+productName: Royal Kitchen Billing
+files:
+  - filter:
+      - dist/**/*
+      - main.cjs
+      - preload.cjs
+      - assets/**/*
+win:
+  target: nsis
+  icon: assets/icon.ico
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: Royal Kitchen Billing
+electronVersion: 29.4.6

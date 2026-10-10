@@ -1,0 +1,104 @@
+=========================================
+       THE ROYAL KITCHEN - SALES REPORT       
+=========================================
+
+📅 Date: 2026-07-09 (Today)
+🔢 Total Tokens: 9
+💰 Total Revenue: ₹4748
+-----------------------------------------
+  [Token #001] Time: 12:39:12 pm | Bill: #8455
+  Customer: Guest | Table: 1 | Payment: Cash
+  Items Ordered:
+    - Coffee x1 (₹60)
+    - Tea x1 (₹30)
+    - Cold Coffee x1 (₹90)
+    - Fresh Lime Soda x1 (₹70)
+    - Lassi x1 (₹80)
+  Grand Total: ₹347
+
+  [Token #002] Time: 12:39:19 pm | Bill: #7582
+  Customer: Guest | Table: 1 | Payment: Card
+  Items Ordered:
+    - Coffee x1 (₹60)
+    - Tea x1 (₹30)
+    - Cold Coffee x2 (₹180)
+    - Fresh Lime Soda x2 (₹140)
+    - Lassi x1 (₹80)
+    - Mango Shake x1 (₹100)
+  Grand Total: ₹620
+
+  [Token #003] Time: 12:39:26 pm | Bill: #9468
+  Customer: Guest | Table: 1 | Payment: UPI
+  Items Ordered:
+    - Coffee x2 (₹120)
+    - Tea x1 (₹30)
+    - Cold Coffee x3 (₹270)
+    - Fresh Lime Soda x2 (₹140)
+    - Lassi x1 (₹80)
+    - Mango Shake x1 (₹100)
+  Grand Total: ₹777
+
+  [Token #004] Time: 12:39:34 pm | Bill: #9117
+  Customer: Guest | Table: 1 | Payment: Cash
+  Items Ordered:
+    - Coffee x5 (₹300)
+    - Tea x1 (₹30)
+    - Cold Coffee x3 (₹270)
+    - Fresh Lime Soda x2 (₹140)
+    - Lassi x1 (₹80)
+    - Mango Shake x1 (₹100)
+  Grand Total: ₹966
+
+  [Token #005] Time: 12:39:34 pm | Bill: #3462
+  Customer: Guest | Table: 1 | Payment: Cash
+  Items Ordered:
+    - Coffee x5 (₹300)
+    - Tea x1 (₹30)
+    - Cold Coffee x3 (₹270)
+    - Fresh Lime Soda x2 (₹140)
+    - Lassi x1 (₹80)
+    - Mango Shake x1 (₹100)
+  Grand Total: ₹966
+
+  [Token #006] Time: 12:40:41 pm | Bill: #3660
+  Customer: Guest | Table: 1 | Payment: Cash
+  Items Ordered:
+    - Mango Shake x1 (₹100)
+  Grand Total: ₹105
+
+  [Token #007] Time: 03:39:29 pm | Bill: #3935
+  Customer: Guest | Table: 1 | Payment: Cash
+  Items Ordered:
+    - Cold Coffee x1 (₹90)
+    - Fresh Lime Soda x1 (₹70)
+    - Lassi x1 (₹80)
+  Grand Total: ₹252
+
+  [Token #008] Time: 03:39:37 pm | Bill: #8426
+  Customer: Guest | Table: 1 | Payment: UPI
+  Items Ordered:
+    - Coffee x1 (₹60)
+    - Tea x1 (₹30)
+    - Cold Coffee x1 (₹90)
+    - Fresh Lime Soda x1 (₹70)
+  Grand Total: ₹263
+
+  [Token #009] Time: 03:39:45 pm | Bill: #1794
+  Customer: Guest | Table: 1 | Payment: UPI
+  Items Ordered:
+    - Coffee x1 (₹60)
+    - Tea x1 (₹30)
+    - Cold Coffee x1 (₹90)
+    - Fresh Lime Soda x1 (₹70)
+    - Lassi x1 (₹80)
+    - Mango Shake x1 (₹100)
+  Grand Total: ₹452
+
+=========================================
+📅 Date: 2026-07-09
+🔢 Total Tokens: 5
+💰 Total Revenue: ₹3613
+-----------------------------------------
+  (Detailed token layout breakdowns missing for this index)
+
+=========================================
